@@ -1,0 +1,10 @@
+#############################################################
+
+
+[*] Title : NopePy Network Enumeration
+[*] Code By : KrdSploit
+[*] Version : 0.0.1
+[*] Support : Linux - Mac - Windows
+
+
+#############################################################
